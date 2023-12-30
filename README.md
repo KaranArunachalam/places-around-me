@@ -13,6 +13,7 @@ Create static folder inside the static create html folder inside it.
 Create html files that contain code related to map.
 
 ## Code:
+```
 <!DOCTYPE html>
 <head>
     <title>Image-map</title>
@@ -28,8 +29,7 @@ Create html files that contain code related to map.
     </map>
 </body>
 </html>
-
-
+```
 ## Output:
 ![image](imgmap.png)
 
